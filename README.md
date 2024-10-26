@@ -1,7 +1,7 @@
-Name:BOMMISETTY TEJAVARDHAN
-company:CODTECH IT SOLUTIONS
-ID:CT08DS9289
-Domain:Artificial Intelligence
+Name:BOMMISETTY TEJAVARDHAN     
+company:CODTECH IT SOLUTIONS      
+ID:CT08DS9289     
+Domain:Artificial Intelligence        
 Mentor:
 
 
