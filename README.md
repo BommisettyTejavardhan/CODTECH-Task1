@@ -77,3 +77,5 @@ Analyze metrics such as response time, user satisfaction, and repeated questions
 
 
 If you want to create a chatbot quickly, tools like Google Dialogflow or Microsoft’s Power Virtual Agents can offer pre-built NLP solutions with step-by-step setup.
+
+![aibot output](https://github.com/user-attachments/assets/1e03b7ad-6460-4953-b7f7-a4d8cb4b47bd)
