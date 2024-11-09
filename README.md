@@ -11,6 +11,7 @@ Mentor:Neela Santhosh
 
 OVERVIEW OF PROJECT
 
+PROJECT NAME:AI Chat Bot
 
 Creating an AI chatbot involves several key steps, including defining its purpose, gathering data, training models, and setting up interactions. Here’s a structured approach to building one:
 
